@@ -7,7 +7,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkName" value="Python 3.12 (PythonProject)" />
+              <option name="sdkName" value="Python 3.10 (Calculo_Entropia)" />
             </JupyterConnectionParameters>
           </value>
         </entry>
